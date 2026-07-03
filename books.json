@@ -36,7 +36,7 @@
       "title": "Nhà Giả Kim",
       "author": "Paulo Coelho",
       "genre": "Tiểu thuyết",
-      "seeds": 4, "chua": 1, "ngot": 4,
+      "seeds": 4, "chua": 2, "ngot": 4,
       "note": "Đọc lần hai mới thấm. Kho báu hoá ra nằm ngay chỗ mình bắt đầu.",
       "quote": "Khi bạn khao khát một điều gì đó, cả vũ trụ sẽ hợp lực giúp bạn đạt được điều đó.",
       "fullReview": "Lần đầu đọc thấy hơi 'triết lý sáo'. Nhưng đọc lại vào một giai đoạn đang phân vân về con đường của mình thì mỗi câu như nói riêng cho mình nghe. Câu chuyện cậu chăn cừu đi tìm kho báu thực ra là chuyện của bất kỳ ai dám đổi sự ổn định lấy một giấc mơ. Cuốn này nên đọc chậm, và nên đọc lại sau vài năm.",
@@ -46,31 +46,34 @@
       "title": "Cây Cam Ngọt Của Tôi",
       "author": "José Mauro de Vasconcelos",
       "genre": "Tiểu thuyết",
-      "seeds": 5, "chua": 3, "ngot": 5,
+      "seeds": 5, "chua": 5, "ngot": 2,
       "note": "Cảnh báo: chuẩn bị khăn giấy. Ngọt kiểu làm mình khóc ngon lành.",
       "quote": "Tại sao trẻ con phải lớn, và tại sao lớn rồi lại phải khổ?",
       "fullReview": "Zezé — cậu bé năm tuổi nghịch nhất xóm nhưng có trái tim mềm nhất thế giới — kết bạn với một cây cam trong vườn vì không ai chịu lắng nghe cậu. Cuốn sách vừa buồn cười vừa xé lòng, viết về tuổi thơ nghèo khó mà không hề bi luỵ. Đoạn cuối đọc ở nơi công cộng là một sai lầm, đừng hỏi vì sao mình biết.",
       "forWho": "Ai muốn khóc một trận thật đã rồi thấy nhẹ lòng."
     },
     {
-      "title": "Tâm Lý Học Về Tiền",
-      "author": "Morgan Housel",
-      "genre": "Tài chính",
-      "seeds": 5, "chua": 2, "ngot": 3,
-      "note": "Tiền bạc là chuyện hành vi, không phải bảng tính. Đổi hẳn cách mình tiết kiệm.",
+      "title": "Thiên tài bên trái - Kẻ điên bên phải",
+      "author": "Cao Minh",
+      "genre": "Tâm lý",
+      "seeds": 5, "chua": 5, "ngot": 0,
+      "note": "NẾU MỘT NGÀY ANH THẤY TÔI ĐIÊN, THỰC RA CHÍNH LÀ ANH ĐIÊN ĐẤY!",
       "quote": "Làm tốt với tiền bạc chẳng liên quan mấy đến việc bạn thông minh cỡ nào, mà liên quan rất nhiều đến cách bạn hành xử.",
-      "fullReview": "Cuốn sách tài chính hiếm hoi không có công thức nào, chỉ có 20 câu chuyện về cách con người cư xử với tiền. Đọc xong hiểu vì sao mình hay chi tiêu bốc đồng, vì sao tiết kiệm khó đến vậy — và quan trọng nhất: giàu (rich) khác với thịnh vượng (wealthy). Đọc chương 'Tiết kiệm' xong là muốn mở app ngân hàng chuyển tiền vào sổ tiết kiệm ngay.",
-      "forWho": "Ai từng thề 'tháng này không mua sắm nữa' rồi... thôi bạn hiểu mà."
+      "fullReview": "Thiên tài bên trái, kẻ điên bên phải là cuốn sách dành cho những người điên rồ, những kẻ gây rối, những người chống đối, những mảnh ghép hình tròn trong những ô vuông không vừa vặn… ",
+      "forWho": "Ai thích thì đọc đi!"
     },
     {
-      "title": "Người Giàu Có Nhất Thành Babylon",
-      "author": "George S. Clason",
-      "genre": "Tài chính",
-      "seeds": 4, "chua": 1, "ngot": 3,
-      "note": "Trả cho mình trước 1/10 thu nhập — cũ mà chưa bao giờ sai.",
-      "quote": "Một phần mười những gì tôi kiếm được là của tôi để giữ lại.",
-      "fullReview": "Sách viết từ gần 100 năm trước, kể chuyện dưới dạng ngụ ngôn Babylon cổ đại nhưng nguyên tắc thì vẫn đúng đến bây giờ: trích 10% thu nhập trước khi tiêu, để tiền làm việc cho mình, đừng đầu tư vào thứ mình không hiểu. Văn phong hơi cổ, nhưng chính vì đơn giản nên dễ áp dụng ngay từ tháng lương sau.",
-      "forWho": "Người mới bắt đầu học quản lý tiền, muốn nền tảng trước khi học đầu tư."
+      "title": "Another",
+      "author": "Yukito Ayatsuji, Hiro Kiyohara",
+      "genre": "Manga",
+      "seeds": 5, "chua": 5, "ngot": 2,
+      "note": "Kinh điển của thể loại Gore, Horror, Mystery, School, Seinen, Supernatural",
+      "quote": "Không tồn tại",
+      "fullReview": "#1: Đừng sốt ruột với khoảng lặng chỉ có tranh.
+#2: Khi nhân vật lặp lại lời thoại, đừng bỏ qua khả năng đó là mấu chốt của vấn đề.  
+#3: Trong truyện sẽ xuất hiện vài quy tắc, quy tắc 4 (tứ) là quy tắc chết người (tử).
+#4: Đừng nghĩ phiên bản truyện tranh hoàn toàn giống tiểu thuyết.",
+      "forWho": "Ôm nỗi sợ hãi vào dùng giấc ngủ"
     },
     {
       "title": "Totto-chan Bên Cửa Sổ",
@@ -85,14 +88,24 @@
   ],
 
   "dangDoc": [
-    {
+         {
+      "title": "Khóa chặt cửa nào Suzume",
+      "author": "Shinkai Makoto",
+      "genre": "Tiểu thuyết",
+      "seeds": 0, "chua": 5, "ngot": 5,
+      "note": "Chưa giở trang đầu nữa... nhưng đây là bộ đọc để chữa lành sau 5cm/s.",
+      "quote": "....",
+      "fullReview": "...",
+      "forWho": "Sẽ trả lời khi đọc xong 😌"
+    },
+       {
       "title": "Hoàng Tử Bé",
       "author": "Antoine de Saint-Exupéry",
       "genre": "Tiểu thuyết",
       "seeds": 0, "chua": 1, "ngot": 5,
-      "note": "Đang nhâm nhi mỗi tối một chương, như ngậm một viên xí muội thật chậm.",
+      "note": "Đang nhâm nhi mỗi năm một chương",
       "quote": "Người ta chỉ nhìn thấy rõ bằng trái tim. Điều cốt lõi thì vô hình với đôi mắt.",
-      "fullReview": "Đang đọc dở nên chưa dám chấm hạt. Cảm nhận ban đầu: mỏng mà nặng, mỗi chương ngắn xíu nhưng gấp sách lại cứ nghĩ mãi. Sẽ cập nhật review đầy đủ khi ngậm xong viên này.",
+      "fullReview": "Đang đọc dở nên chưa dám chấm hạt. Cảm nhận ban đầu: mỏng mà nặng, mỗi chương ngắn xíu nhưng gấp sách lại cứ nghĩ mãi. Đọc vài lần vẫn chưa kết thúc được.",
       "forWho": "Sẽ trả lời khi đọc xong 😌"
     }
   ]
