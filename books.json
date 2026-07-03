@@ -1,0 +1,99 @@
+{
+  "_huongDan": "File này chứa toàn bộ sách trên trang. Sửa chữ trong dấu nháy kép, giữ nguyên dấu phẩy và ngoặc. seeds = số hạt (1-5), chua/ngot = 1-5. genre: Manga (tím), Tiểu thuyết (cam mơ), Tài chính (xanh bạc hà) — thể loại mới sẽ tự có màu xanh da trời.",
+
+  "daDoc": [
+    {
+      "title": "Thám Tử Kindaichi",
+      "author": "Seimaru Amagi & Fumiya Satō",
+      "genre": "Manga",
+      "seeds": 5, "chua": 5, "ngot": 2,
+      "note": "Án mạng phòng kín kinh điển. Đọc đêm khuya tự dưng thấy sau lưng lành lạnh.",
+      "quote": "Cược cả danh tiếng của ông nội, tôi sẽ giải vụ án này!",
+      "fullReview": "Bộ manga trinh thám gối đầu giường. Mỗi vụ án là một bài toán phòng kín được cài cắm manh mối rất công bằng — người đọc hoàn toàn có thể tự suy luận trước khi Kindaichi vén màn. Không khí u ám của các vùng quê Nhật, truyền thuyết địa phương đan xen án mạng khiến mỗi arc như một bộ phim kinh dị nhỏ. Điểm trừ duy nhất: đọc buổi tối xong khó ngủ.",
+      "forWho": "Ai mê suy luận, thích tự đoán hung thủ trước khi truyện tiết lộ."
+    },
+    {
+      "title": "Liar Game",
+      "author": "Shinobu Kaitani",
+      "genre": "Manga",
+      "seeds": 5, "chua": 5, "ngot": 1,
+      "note": "Đấu trí căng như dây đàn. Đọc xong nhìn ai cũng nghi ngờ mất một tuần.",
+      "quote": "Con người nói dối không phải vì bản chất xấu, mà vì họ yếu đuối.",
+      "fullReview": "Một cô gái thật thà đến ngây ngô bị kéo vào trò chơi lừa đảo tiền tỷ, và người đồng hành là một siêu lừa vừa ra tù. Cái hay của Liar Game không nằm ở việc ai lừa ai, mà ở chỗ mỗi ván đấu là một bài học về tâm lý con người: lòng tham, nỗi sợ, và niềm tin. Các trò chơi được thiết kế logic chặt chẽ, lật kèo liên tục nhưng luôn hợp lý.",
+      "forWho": "Người thích tâm lý học, game theory, và những cú plot twist đau não."
+    },
+    {
+      "title": "Học Viện Thám Tử Q",
+      "author": "Seimaru Amagi & Fumiya Satō",
+      "genre": "Manga",
+      "seeds": 4, "chua": 4, "ngot": 3,
+      "note": "Vừa phá án vừa có tình bạn dễ thương. Combo chua ngọt cân bằng.",
+      "quote": "Một thám tử thực thụ không chỉ tìm ra sự thật, mà còn cứu rỗi con người.",
+      "fullReview": "Cùng tác giả với Kindaichi nhưng vị khác hẳn: nhóm bạn học viện thám tử cùng nhau phá án, mỗi người một tài năng riêng. Án vẫn hóc búa nhưng có thêm chất ấm của tình bạn và hành trình trưởng thành. Đọc nhẹ nhõm hơn Kindaichi nhiều, hợp làm 'bài khởi động' cho ai mới vào thể loại trinh thám.",
+      "forWho": "Ai muốn trinh thám nhưng không muốn quá rùng rợn."
+    },
+    {
+      "title": "Nhà Giả Kim",
+      "author": "Paulo Coelho",
+      "genre": "Tiểu thuyết",
+      "seeds": 4, "chua": 1, "ngot": 4,
+      "note": "Đọc lần hai mới thấm. Kho báu hoá ra nằm ngay chỗ mình bắt đầu.",
+      "quote": "Khi bạn khao khát một điều gì đó, cả vũ trụ sẽ hợp lực giúp bạn đạt được điều đó.",
+      "fullReview": "Lần đầu đọc thấy hơi 'triết lý sáo'. Nhưng đọc lại vào một giai đoạn đang phân vân về con đường của mình thì mỗi câu như nói riêng cho mình nghe. Câu chuyện cậu chăn cừu đi tìm kho báu thực ra là chuyện của bất kỳ ai dám đổi sự ổn định lấy một giấc mơ. Cuốn này nên đọc chậm, và nên đọc lại sau vài năm.",
+      "forWho": "Ai đang đứng giữa ngã ba đường và cần một cú hích."
+    },
+    {
+      "title": "Cây Cam Ngọt Của Tôi",
+      "author": "José Mauro de Vasconcelos",
+      "genre": "Tiểu thuyết",
+      "seeds": 5, "chua": 3, "ngot": 5,
+      "note": "Cảnh báo: chuẩn bị khăn giấy. Ngọt kiểu làm mình khóc ngon lành.",
+      "quote": "Tại sao trẻ con phải lớn, và tại sao lớn rồi lại phải khổ?",
+      "fullReview": "Zezé — cậu bé năm tuổi nghịch nhất xóm nhưng có trái tim mềm nhất thế giới — kết bạn với một cây cam trong vườn vì không ai chịu lắng nghe cậu. Cuốn sách vừa buồn cười vừa xé lòng, viết về tuổi thơ nghèo khó mà không hề bi luỵ. Đoạn cuối đọc ở nơi công cộng là một sai lầm, đừng hỏi vì sao mình biết.",
+      "forWho": "Ai muốn khóc một trận thật đã rồi thấy nhẹ lòng."
+    },
+    {
+      "title": "Tâm Lý Học Về Tiền",
+      "author": "Morgan Housel",
+      "genre": "Tài chính",
+      "seeds": 5, "chua": 2, "ngot": 3,
+      "note": "Tiền bạc là chuyện hành vi, không phải bảng tính. Đổi hẳn cách mình tiết kiệm.",
+      "quote": "Làm tốt với tiền bạc chẳng liên quan mấy đến việc bạn thông minh cỡ nào, mà liên quan rất nhiều đến cách bạn hành xử.",
+      "fullReview": "Cuốn sách tài chính hiếm hoi không có công thức nào, chỉ có 20 câu chuyện về cách con người cư xử với tiền. Đọc xong hiểu vì sao mình hay chi tiêu bốc đồng, vì sao tiết kiệm khó đến vậy — và quan trọng nhất: giàu (rich) khác với thịnh vượng (wealthy). Đọc chương 'Tiết kiệm' xong là muốn mở app ngân hàng chuyển tiền vào sổ tiết kiệm ngay.",
+      "forWho": "Ai từng thề 'tháng này không mua sắm nữa' rồi... thôi bạn hiểu mà."
+    },
+    {
+      "title": "Người Giàu Có Nhất Thành Babylon",
+      "author": "George S. Clason",
+      "genre": "Tài chính",
+      "seeds": 4, "chua": 1, "ngot": 3,
+      "note": "Trả cho mình trước 1/10 thu nhập — cũ mà chưa bao giờ sai.",
+      "quote": "Một phần mười những gì tôi kiếm được là của tôi để giữ lại.",
+      "fullReview": "Sách viết từ gần 100 năm trước, kể chuyện dưới dạng ngụ ngôn Babylon cổ đại nhưng nguyên tắc thì vẫn đúng đến bây giờ: trích 10% thu nhập trước khi tiêu, để tiền làm việc cho mình, đừng đầu tư vào thứ mình không hiểu. Văn phong hơi cổ, nhưng chính vì đơn giản nên dễ áp dụng ngay từ tháng lương sau.",
+      "forWho": "Người mới bắt đầu học quản lý tiền, muốn nền tảng trước khi học đầu tư."
+    },
+    {
+      "title": "Totto-chan Bên Cửa Sổ",
+      "author": "Kuroyanagi Tetsuko",
+      "genre": "Tiểu thuyết",
+      "seeds": 4, "chua": 1, "ngot": 5,
+      "note": "Ngôi trường toa tàu dễ thương nhất quả đất. Đọc để nhớ mình từng là trẻ con.",
+      "quote": "Em thật sự là một cô bé ngoan.",
+      "fullReview": "Totto-chan bị đuổi học từ lớp một vì 'quá kỳ lạ', rồi đến ngôi trường Tomoe với các lớp học trong toa tàu cũ, nơi thầy hiệu trưởng lắng nghe cô bé nói suốt bốn tiếng đồng hồ trong buổi gặp đầu tiên. Đọc mà ước gì người lớn nào cũng kiên nhẫn với trẻ con như thế. Cuốn sách để dành đọc cùng con là chuẩn không cần chỉnh.",
+      "forWho": "Bố mẹ, thầy cô, và bất kỳ ai từng bị gọi là 'đứa trẻ hư'."
+    }
+  ],
+
+  "dangDoc": [
+    {
+      "title": "Hoàng Tử Bé",
+      "author": "Antoine de Saint-Exupéry",
+      "genre": "Tiểu thuyết",
+      "seeds": 0, "chua": 1, "ngot": 5,
+      "note": "Đang nhâm nhi mỗi tối một chương, như ngậm một viên xí muội thật chậm.",
+      "quote": "Người ta chỉ nhìn thấy rõ bằng trái tim. Điều cốt lõi thì vô hình với đôi mắt.",
+      "fullReview": "Đang đọc dở nên chưa dám chấm hạt. Cảm nhận ban đầu: mỏng mà nặng, mỗi chương ngắn xíu nhưng gấp sách lại cứ nghĩ mãi. Sẽ cập nhật review đầy đủ khi ngậm xong viên này.",
+      "forWho": "Sẽ trả lời khi đọc xong 😌"
+    }
+  ]
+}
